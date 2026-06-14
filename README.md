@@ -15,3 +15,11 @@ MySQL, Excel, Power BI, Power Query, DAX, Data Transformation, Dashboard Develop
 4. Imported, cleaned, and transformed customer and transaction data from MySQL into Power BI using Power Query to support reporting and analytics.
 5. Designed interactive visualizations with filters, slicers, and drill-down capabilities to enable dynamic analysis and data-driven decision-making.
 6. Strengthened skills in Data Analytics, Data Modeling, Data Visualization, Power BI, SQL, DAX, Business Intelligence, and Dashboard Development.
+
+## Dashboard Screenshots
+
+### Credit Card Transaction Report
+![Credit Card Transaction Report](Screenshots/Credi%20card%20Transaction%20report.PNG)
+
+### Credit Card Customer Analysis
+![Credit Card Customer Analysis](Screenshots/credit%20card%20customer%20analysis.PNG)
