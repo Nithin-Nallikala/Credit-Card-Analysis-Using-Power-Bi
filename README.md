@@ -1,3 +1,13 @@
+## Tools & Technologies
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-00B050?style=for-the-badge)
+
+
+
 # Credit-Card-Analysis-Using-Power-Bi
 Built an interactive Credit Card Customer and Transaction Analysis Dashboard using MySQL, Excel, Power BI, Power Query, and DAX. Analyzed customer behavior, transaction trends, and key business KPIs through dynamic visualizations and data-driven insights.
 
